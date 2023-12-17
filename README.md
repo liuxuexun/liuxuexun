@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi here is mellody11 👋
+
+- :mortar_board: I’m Pursuing a Master's degree in College of Computer Science and Software Engineering, Shenzhen University, China.
+- :bulb: I’m currently focusing on 3D point clouds analysis: point clouds semantic segmentation \ detection.
+- :email: 2019043026@email.szu.edu.cn
 
 <!--
 **mellody11/mellody11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
