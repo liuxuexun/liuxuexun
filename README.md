@@ -1,4 +1,4 @@
-### Hi here is mellody11 👋
+### Hi here is liuxuexun 👋
 
 - :mortar_board: I’m pursuing a Master's degree in College of Computer Science and Software Engineering, Shenzhen University, China.
 - :bulb: I’m currently focusing on 3D point clouds analysis: point clouds segmentation \ detection.
